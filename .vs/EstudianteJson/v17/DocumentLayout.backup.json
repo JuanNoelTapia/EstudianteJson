@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\estudiantejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|solutionrelative:estudiantejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|c:\\users\\dell\\downloads\\usos de de json y xml en c#\\usos de de json y xml en c#\\uso de json\\estudiantejson\\estudiantejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|solutionrelative:estudiantejson\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|c:\\users\\dell\\downloads\\usos de de json y xml en c#\\usos de de json y xml en c#\\uso de json\\estudiantejson\\estudiantejson\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|solutionrelative:estudiantejson\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|c:\\users\\dell\\downloads\\usos de de json y xml en c#\\usos de de json y xml en c#\\uso de json\\estudiantejson\\estudiantejson\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACD9F3-EC85-4C16-A15A-D9CB6A01AE82}|EstudianteJson\\EstudianteJson.csproj|solutionrelative:estudiantejson\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Form1.cs",
+              "RelativeDocumentMoniker": "EstudianteJson\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Form1.cs*",
+              "RelativeToolTip": "EstudianteJson\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:30:01.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Json.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Json.cs",
+              "RelativeDocumentMoniker": "EstudianteJson\\Json.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Json.cs",
+              "RelativeToolTip": "EstudianteJson\\Json.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:20:54.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EstudianteJson\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Estudiante.cs",
+              "RelativeToolTip": "EstudianteJson\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:19:44.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Form1.cs",
+              "RelativeDocumentMoniker": "EstudianteJson\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\USOS DE DE JSON y XML EN C#\\USOS DE DE JSON y XML EN C#\\USO DE JSON\\EstudianteJson\\EstudianteJson\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "EstudianteJson\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:19:13.219Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

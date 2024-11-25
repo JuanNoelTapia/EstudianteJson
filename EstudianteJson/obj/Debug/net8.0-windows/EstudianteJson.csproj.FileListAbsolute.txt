@@ -1,0 +1,38 @@
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.exe
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.deps.json
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.runtimeconfig.json
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.pdb
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.Form1.resources
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\Estudian.F4593777.Up2Date
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\refint\EstudianteJson.dll
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.pdb
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Capturas de pantalla\Documentos\segundo semestre del 2024\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\ref\EstudianteJson.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.exe
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.deps.json
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.runtimeconfig.json
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\EstudianteJson.pdb
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.Form1.resources
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.AssemblyInfo.cs
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\Estudian.F4593777.Up2Date
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\refint\EstudianteJson.dll
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.pdb
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\EstudianteJson.genruntimeconfig.cache
+C:\Users\Dell\Downloads\USOS DE DE JSON y XML EN C#\USOS DE DE JSON y XML EN C#\USO DE JSON\EstudianteJson\EstudianteJson\obj\Debug\net8.0-windows\ref\EstudianteJson.dll
